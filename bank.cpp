@@ -8,7 +8,7 @@ using namespace std;
 class Book
 { 
 private:
-	string title;
+	string title; 
 	string author;
 	string isbn;
 	bool available;
