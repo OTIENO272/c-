@@ -18,7 +18,7 @@ public:
 
 	// Getters
 	string getTitle() const { return title; }
-	string getAuthor() const { return author; }
+	string getAuthor() const { return author; } 
 	string getISBN() const { return isbn; }
 	bool isAvailable() const { return available; }
 
